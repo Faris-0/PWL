@@ -1,5 +1,5 @@
 <?php
-include "pbo02.inc.php";
+include "pbo02.php";
 echo "<html><head><title>Mahasiswa</title></head><body>";
 $form = new Form ("","Input Form");
 $form->addField ("txtnim", "Nim");
